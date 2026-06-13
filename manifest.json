@@ -5,14 +5,14 @@
         "overview": "Enables creation of Auto Collections based on Tag",
         "description": "Enables creation of Auto Collections based on Tag",
         "owner": "KeksBombe",
-        "imageUrl": "https://raw.githubusercontent.com/KeksBombe/jellyfin-plugin-auto-collections/main/Jellyfin.Plugin.AutoCollections/Images/AutoCollectionImage.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/jflasza/jellyfin-plugin-auto-collections/main/Jellyfin.Plugin.AutoCollections/Images/AutoCollectionImage.jpg",
         "category": "General",
         "versions": [
             {
                 "version": "0.0.4.1",
-                "changelog": "- See the full changelog at [GitHub](https://github.com/KeksBombe/jellyfin-plugin-auto-collections/releases/tag/0.0.4.1)\n",
+                "changelog": "- See the full changelog at [GitHub](https://github.com/jflasza/jellyfin-plugin-auto-collections/releases/tag/0.0.4.1)\n",
                 "targetAbi": "10.11.0.0",
-                "sourceUrl": "https://github.com/KeksBombe/jellyfin-plugin-auto-collections/releases/download/0.0.4.1/auto-collections-0.0.4.1.zip",
+                "sourceUrl": "https://github.com/jflasza/jellyfin-plugin-auto-collections/archive/refs/tags/fix.zip",
                 "checksum": "b7937d64b97f5123962f2c619b6256c3",
                 "timestamp": "2025-12-04T08:45:45Z"
             },
