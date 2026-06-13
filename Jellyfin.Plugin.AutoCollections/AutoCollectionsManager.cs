@@ -2068,9 +2068,9 @@ namespace Jellyfin.Plugin.AutoCollections
                 }
 
                 // Get all users and check if ANY of them have played this item
-                var users = _userManager.Users.ToList();
+                var users = _userManager.GetUsers().ToList();
                 
-                if (users.Count == 0)
+                if (GetUsers().Count == 0)
                 {
                     _logger.LogDebug("No users found, assuming item {ItemName} is unplayed", item.Name);
                     return true;
